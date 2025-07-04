@@ -16,3 +16,4 @@ and modern news reading experience on both iOS and Android.
 - Implemented responsive UI with Flutter widgets to ensure seamless user experience on both Android and iOS devices.
 - Integrated news APIs to fetch top headlines, categorized news, and search functionality.
 
+![image alt](https://github.com/Abdelrahman-Saleh002/News_App/blob/ad3c50535263d808684d2fdb5755c635fb968b33/Screenshot.png)
